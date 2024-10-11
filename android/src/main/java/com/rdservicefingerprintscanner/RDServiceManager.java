@@ -51,6 +51,7 @@ public class RDServiceManager {
       put("com.nextbiometrics.rdservice", "NEXT Biometrics NB-3023");
       put("com.iritech.rdservice", "IriTech IriShield");
       put("com.evolute.iris.rdservice", "Evolute IRIS");
+      put("com.mantra.mfs110.rdservice", "Mantra MFS110L1");
     }
   };
 
